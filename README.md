@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @GameMaestroYT
-- 👀 I’m interested in chromebooks and phones
-- 🌱 I’m currently learning nothing..
-- 💞️ I’m looking to collaborate on minecraft on chromebook
-<!---
-DabombDank2/DabombDank2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎮 Gamer, modder, and tech enthusiast
+- 📱 Interested in Chromebooks, phones, and gaming setups
+- 🌱 Currently exploring Minecraft mods and coding experiments
